@@ -1,1 +1,9 @@
-This is a README
+This repository contains the reduced data for the paper "Initial Investigations of the Outskirts of XLSSC 122"
+This includes spectroscopically identified member galaxy catalogues and associated spectra
+Spectroscopic information made using the G141 grizm on HST/WFC3/IR
+Photometric information made using the F814W filter on HST/ACS/WFC, F105W/F140W filters on HST/WFC3/IR
+
+The detailed reduction steps are outlined in (Lonsbrough et al, 2025)
+
+There is a folder for each cluster, XLSSC 122 and CLJ021741.1-034546, containing raw spectra and the reduced catalogue
+For all objects not identified as a member of the cluster, see the 2 files in the primary directory. !!!Warning, these objects were not given as much care as those in the reduced catalogues, use with caution!!!
