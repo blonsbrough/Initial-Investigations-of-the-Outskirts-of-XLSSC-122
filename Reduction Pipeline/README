@@ -1,0 +1,5 @@
+This folder contains the reduction pipeline scripts involved in the creation of a photometric and spectroscopic catalogue of cluster members in the galaxy cluster XLSSC 122 using the Hubble Space Telescope.
+
+Pipeline spans from the raw data download from My Space Telescope, to the stitching together of the cluster catalogue.
+
+Scripts contain several intermediate steps not included, described, or shown in (Lonsbrough et al. 2025). 
